@@ -9,9 +9,20 @@ public class Greeters {
         return "Hello " + name;
     }
 
-    public String asd (String bob, int bob3){
-        //int name = bob;
-        return "Hello " + bob;
+    public String doStuff (String var){
+        return "Hello " + var;
+    }
+
+    public static void main(String[] args){
+        //RabbitPopulation rp = new RabbitPopulation();
+
+        //  rp.setRp(5);
+
+
+        //System.out.println(rp);
+
+        //System.out.println(rpop);
+        //System.out.println(population);
     }
 
 }
